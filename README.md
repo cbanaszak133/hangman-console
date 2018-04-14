@@ -2,8 +2,8 @@
 
 ## What it is
 
-This is a Hangman style game running through the command console utilizing multiple JavaScript constructors. The 
-game is focused around Word and Letter constructors. In order to take in user prompts, I also utilized the Inquirer 
+This is a Hangman style game running through the command console utilizing multiple JavaScript objects. The 
+game is focused around Word and Letter objects. In order to take in user prompts, I also utilized the Inquirer 
 NPM package. The hangman game is centered around the hit songs of Prince, which makes it even more compelling and awesome.
 
 ## How it works
